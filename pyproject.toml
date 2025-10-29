@@ -10,7 +10,7 @@ write_to = "wonderwords/_version.py"
 
 [project]
 name = "wonderwords"
-#version = "2.3.0"
+version = "3.0.0"
 requires-python = ">=3.8"
 authors = [
     { name="Maxim Rebguns", email="mrmaxguns@gmail.com" },
